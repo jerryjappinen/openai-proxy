@@ -1,0 +1,24 @@
+{
+  "name": "openai-proxy",
+  "version": "0.1.0",
+  "description": "What it says on the tin.",
+  "private": false,
+  "engines": {
+    "node": "18.x"
+  },
+  "license": "MIT",
+  "scripts": {
+    "v": "vercel dev"
+  },
+  "author": {
+    "name": "Jerry Jäppinen",
+    "url": "https://github.com/jerryjappinen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerryjappinen/openai-proxy.git"
+  },
+  "devDependencies": {
+    "vercel": "^31.1.1"
+  }
+}
